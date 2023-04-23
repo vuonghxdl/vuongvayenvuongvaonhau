@@ -79,13 +79,13 @@ window.onload = function () {
   };
   
   function yesClick() {
-    document.getElementById("body").style.backgroundImage = "url(sexy.png)";
+    document.getElementById("body").style.backgroundImage = "url(https://github.com/vuonghxdl/vuongvayenvuongvaonhau/blob/main/sexy.png)";
     alert("Ahihi, em không đồng ý thật à?");
     alert("Haha, đùa chứ chắc chắn là em đồng ý rồi em nhỉ?");
     alert("Vậy thì ghé Cư bao đi, rồi anh đi cầu hôn em nhé");
     alert("Mém quên, chúc mừng sinh nhật em yêu. Mọi điều tốt đẹp sẽ đến với em nè.");
     alert("anh nợ em quà sinh nhật nhé, nào gặp đi rồi anh tặng sau nha. Bé hơn ba");
-    document.getElementById("body").style.backgroundImage = "url(zalo.png)";
+    document.getElementById("body").style.backgroundImage = "url(https://github.com/vuonghxdl/vuongvayenvuongvaonhau/blob/main/zalo.png)";
   }
   
   function noHover() {
