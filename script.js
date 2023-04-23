@@ -84,7 +84,7 @@ window.onload = function () {
     alert("Vậy thì ghé Cư bao đi, rồi anh đi cầu hôn em nhé");
     alert("Mém quên, chúc mừng sinh nhật em yêu. Mọi điều tốt đẹp sẽ đến với em nè.");
     alert("anh nợ em quà sinh nhật nhé, nào gặp đi rồi anh tặng sau nha. Bé hơn ba");
-    document.getElementById("body").style.backgroundImage = "url(img_tree.gif)";
+    document.getElementById("body").style.backgroundImage = "url(https://github.com/vuonghxdl/vuongvayenvuongvaonhau/blob/main/zalo.png)";
   }
   
   function noHover() {
